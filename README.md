@@ -4,7 +4,7 @@ Much of this was taken from [The Pragmatic Studio's](https://pragmaticstudio.com
 
 ## Project Structure
 
-All of the Elm code lives in `Bingo.elm` and `BingoUtils.elm`.
+All of the Elm code lives in `Starter.elm` and `StarterUtils.elm`.
 
 This project is designed for version 0.16 of the Elm Platform and relies on the [elm-html](http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/) and [start-app](http://package.elm-lang.org/packages/evancz/start-app/2.0.2/) packages.
 
