@@ -1,4 +1,6 @@
-# Points Tracker in Elm
+# Elm Starter Project template
+
+Much of this was taken from [The Pragmatic Studio's](https://pragmaticstudio.com/) great [Elm class](https://pragmaticstudio.com/elm).
 
 ## Project Structure
 
@@ -23,7 +25,7 @@ the necessary JavaScript (`points_tracker.js`) and CSS stylesheet (`style.css`).
 Run the following command from the root of this project:
 
 ```
-elm make Bingo.elm --output bingo.js
+elm make Starter.elm --output starter.js
 ```
 
 Then open `index.html` in your browser!
