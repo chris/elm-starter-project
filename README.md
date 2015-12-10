@@ -32,7 +32,7 @@ Then open `index.html` in your browser!
 
 ## Auto-recompile with Grunt
 
-This is from [Prag Studio Elm class](https://online.pragmaticstudio.com/courses/elm/steps/16)
+This is from [Prag Studio Elm class](https://pragmaticstudio.com/elm) [step 16](https://online.pragmaticstudio.com/courses/elm/steps/16)
 
 Setup Grunt CLI:
 
