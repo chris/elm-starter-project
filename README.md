@@ -6,7 +6,7 @@ Much of this was taken from [The Pragmatic Studio's](https://pragmaticstudio.com
 
 All of the Elm code lives in `Starter.elm` and `StarterUtils.elm`.
 
-This project is designed for version 0.16 of the Elm Platform and relies on the [elm-html](http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/) and [start-app](http://package.elm-lang.org/packages/evancz/start-app/2.0.2/) packages.
+This project is designed for version 0.16 of the [Elm](http://elm-lang.org/) Platform and relies on the [elm-html](http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/) and [start-app](http://package.elm-lang.org/packages/evancz/start-app/2.0.2/) packages.
 
 The `index.html` file embeds the program as a fullscreen app and includes
 the necessary JavaScript (`points_tracker.js`) and CSS stylesheet (`style.css`).
